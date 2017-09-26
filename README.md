@@ -1,3 +1,9 @@
+# IMPORTANT
+
+This is a fork of the `mongoose-crate-s3` repository here: https://github.com/achingbrain/mongoose-crate-s3
+
+It exists solely to use a forked version of its `knox` dependency, which exists solely to fix an issue with a breaking change in knox's `mime` dependency.
+
 # mongoose-crate-s3
 
 [![Dependency Status](https://david-dm.org/achingbrain/mongoose-crate-s3.svg?theme=shields.io)](https://david-dm.org/achingbrain/mongoose-crate-s3) [![devDependency Status](https://david-dm.org/achingbrain/mongoose-crate-s3/dev-status.svg?theme=shields.io)](https://david-dm.org/achingbrainmongoose-crate-s3#info=devDependencies) [![Build Status](https://img.shields.io/travis/achingbrain/mongoose-crate-s3/master.svg)](https://travis-ci.org/achingbrain/mongoose-crate-s3) [![Coverage Status](http://img.shields.io/coveralls/achingbrain/mongoose-crate-s3/master.svg)](https://coveralls.io/r/achingbrain/mongoose-crate-s3)

@@ -15,7 +15,7 @@
     "coveralls": "istanbul cover _mocha && cat ./coverage/lcov.info | coveralls"
   },
   "dependencies": {
-    "knox": "^0.9",
+    "knox": "git+https://github.com/masumsoft/knox.git#hotfix",
     "check-types": "^1.2"
   },
   "devDependencies": {
